@@ -49,7 +49,10 @@
     "no-continue": 0,
     "no-console": 0,
     "no-restricted-syntax": 0,
-    "no-multi-assign": 0
+    "no-multi-assign": 0,
+    "no-constant-condition": 0,
+    "no-prototype-builtins": 0,
+    "guard-for-in": 0
   },
   // 要禁用一组文件的配置文件中的规则，请使用 overrides 和 file
   "overrides": [
